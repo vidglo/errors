@@ -1,0 +1,32 @@
+{
+  "name": "@vidglo/errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.4.0"
+  },
+  "files": [
+    "http/",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidglo/errors.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidglo/errors/issues"
+  },
+  "homepage": "https://github.com/vidglo/errors#readme",
+  "dependencies": {
+    "http-status-codes": "^1.3.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
